@@ -24,3 +24,4 @@ C:\Users\lab_services_student\source\repos\CybersecurityAwarenessBot\bin\Debug\n
 C:\Users\lab_services_student\source\repos\CybersecurityAwarenessBot\bin\Debug\net8.0\libmp3lame.32.dll
 C:\Users\lab_services_student\source\repos\CybersecurityAwarenessBot\bin\Debug\net8.0\libmp3lame.64.dll
 C:\Users\lab_services_student\source\repos\CybersecurityAwarenessBot\bin\Debug\net8.0\NAudio.Lame.dll
+C:\Users\lab_services_student\source\repos\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.sourcelink.json
